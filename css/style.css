@@ -11,6 +11,17 @@
   height: 100vh;
 }
 
+::placeholder {
+  text-align: center;
+  color: #fff;
+}
+.psw {
+  color: #fff;
+}
+.recover {
+  color: #ccc;
+  
+}
 #left
 {
   display: flex;
